@@ -9,6 +9,6 @@ print(Age, type(Age))
 
 
 is_student= Age
-print(is_student, type)
+
 
 
